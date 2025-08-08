@@ -1,2 +1,2 @@
 console.log('some login features')
-text v2
+final text resolve conflict
